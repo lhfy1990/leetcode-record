@@ -4,7 +4,7 @@
 // Complexity:
 
 class Solution {
-    public int rob(int[] nums) {
+    public int maxKilledEnemies(char[][] grid) {
         
     }
 }
