@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-record",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "leetcode-cli": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "leetcode": "./node_modules/leetcode-cli/bin/leetcode",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhfy1990/leetcode-record.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhfy1990/leetcode-record/issues"
+  },
+  "homepage": "https://github.com/lhfy1990/leetcode-record#readme"
+}
